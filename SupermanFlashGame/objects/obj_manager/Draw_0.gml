@@ -6,6 +6,6 @@ draw_set_color(c_blue)
 	draw_set_color(c_red)
 	draw_text(20,60, "POINTS: " +string(POINTS))
 	
-	draw_set_color(c_yellow)
+	draw_set_color(c_black)
 	draw_text(20,120, "BEST SCORE: " +string(BESTSCORE))
 
