@@ -35,7 +35,6 @@ if room == rm_end{
 if room == rm_final{
 	if (keyboard_check(vk_shift)){
 		room_goto(rm_start)
-
 	}
 }
 
