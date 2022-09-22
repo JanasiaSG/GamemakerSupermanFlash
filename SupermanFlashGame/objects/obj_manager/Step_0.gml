@@ -32,6 +32,11 @@ if room == rm_end{
 		audio_play_sound(snd_theflash,0,false)
 	}
 }
+if room == rm_final{
+	if (keyboard_check(vk_space)){
+		room_goto(rm_start)
+	}
+}
 //PLAYER_LIFE = player_life_max
 if room == rm_game{
 	Points_timer += 1

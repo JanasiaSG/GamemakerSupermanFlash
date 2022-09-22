@@ -17,6 +17,7 @@
     {"id":{"name":"Obj_Speedster","path":"objects/Obj_Speedster/Obj_Speedster.yy",},"order":4,},
     {"id":{"name":"Obj_manager","path":"objects/Obj_manager/Obj_manager.yy",},"order":2,},
     {"id":{"name":"Obj_Superhero","path":"objects/Obj_Superhero/Obj_Superhero.yy",},"order":0,},
+    {"id":{"name":"bg_final","path":"sprites/bg_final/bg_final.yy",},"order":12,},
     {"id":{"name":"spr_negativeFlash","path":"sprites/spr_negativeFlash/spr_negativeFlash.yy",},"order":11,},
     {"id":{"name":"snd_theflash","path":"sounds/snd_theflash/snd_theflash.yy",},"order":2,},
     {"id":{"name":"Obj_rockgen","path":"objects/Obj_rockgen/Obj_rockgen.yy",},"order":10,},
