@@ -33,10 +33,11 @@ if room == rm_end{
 	}
 }
 if room == rm_final{
-	if (keyboard_check(vk_space)){
+	if (keyboard_check(vk_shift)){
 		room_goto(rm_start)
 	}
 }
+
 //PLAYER_LIFE = player_life_max
 if room == rm_game{
 	Points_timer += 1
